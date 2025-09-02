@@ -9,5 +9,6 @@ git push -u origin main
 
 #…or push an existing repository from the command line
 git remote add origin https://github.com/gek007/test.git
+git remote set-url origin https://github.com/gek007/test.git
 git branch -M main
 git push -u origin main
